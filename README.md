@@ -1,6 +1,6 @@
 # Python Project Pacmann
 ---
-# Metodologi dan konsep yang diterapkan pada projek ini
+# Metode dan konsep yang diterapkan pada projek ini
 - Docstring
 - OOP
 - Looping dan Branching
